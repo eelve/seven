@@ -11,7 +11,10 @@
         }
     </style>
 </head>
+<body>
 <div class="page_404">
     <p>The page you are looking for is error</p>
 </div>
+<script src="//eelve.com/tongji/eelve.com.js"></script>
+</body>
 </html>
