@@ -1,5 +1,5 @@
 <#include "module/default.ftl">
-<@default title="${options.blog_title!'vno'}" keywords="${options.seo_keywords!}" desc="${options.seo_descriptionription!}" canonical="${context!}">
+<@default title="${options.blog_title!'seven'}" keywords="${options.seo_keywords!}" desc="${options.seo_descriptionription!}" canonical="${context!}">
     <div class="main-post-list hidden">
         <ol class="post-list">
             <#list posts.content as post>

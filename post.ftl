@@ -1,5 +1,5 @@
 <#include "module/default.ftl">
-<@default title="${post.title} - ${options.blog_title?default('vno')}" keywords="${options.seo_keywords!}" desc="${post.summary!}" canonical="${context!}/archives/${post.url}">
+<@default title="${post.title} - ${options.blog_title?default('seven')}" keywords="${options.seo_keywords!}" desc="${post.summary!}" canonical="${context!}/archives/${post.url}">
   <article class="post-container post-container--single" itemscope itemtype="http://schema.org/BlogPosting">
       <header class="post-header">
           <div class="post-meta">
