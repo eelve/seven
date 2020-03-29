@@ -27,6 +27,10 @@ general:
       label: 导航按钮
       type: textarea
       default: '<li class="navigation__item"><a href="#" target="_blank" title="#">按照这个格式，可以多个</a></li>'
+    beian:
+      name: beian
+      label: 备案号
+      type: text
 sns:
   label: 社交资料设置
   items:
